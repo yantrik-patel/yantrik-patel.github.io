@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, There......!!! on Yantrik Patel</title>
+    <link>https://yantrik-patel.github.io/</link>
+    <description>Recent content in Hello, There......!!! on Yantrik Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Dec 2022 11:13:32 -0400</lastBuildDate><atom:link href="https://yantrik-patel.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 7: ML_Python Web Scraping and Sentiment Analysis</title>
+      <link>https://yantrik-patel.github.io/post/chapter-8/</link>
+      <pubDate>Fri, 30 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-8/</guid>
+      <description>In this project, I have done Webscraping of Food Reviews of one of the pizza restaurants on Yelp.com and carried out sentiment analysis. In Python, I have used &amp;ldquo;BeautifulSoup&amp;rdquo; for webscraping and NLP(Natural Language Processing) ML models like VADER, ROBERTA and BERT for sentiment analysis. My final discovery is ROBERTA is more confident while classifying reviews compared to VADER. The BERT is very robust and state of the art model which classify the sentiment on a scale of 1 to 5.</description>
+    </item>
+    
+    <item>
+      <title>Project 6: ML_Python Stock Market Prediction</title>
+      <link>https://yantrik-patel.github.io/post/chapter-7/</link>
+      <pubDate>Thu, 15 Dec 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-7/</guid>
+      <description>In this project I tried to create a Machine Learning model that predicts the next day price movement of S&amp;amp;P500 Index using historical data. It is one of the most famous Indices in world. It tracks the performance of 500 large companies listed on stock exchanges in USA.
+I have used Python programming language.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Project 5: ML_Python BigMart Sales Prediction</title>
+      <link>https://yantrik-patel.github.io/post/chapter-6/</link>
+      <pubDate>Sun, 20 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-6/</guid>
+      <description>This project is about analyzing BigMart Sales data and choosing best Machine Learning model to do sales prediction. This is Python based project. I have used different ML Algorithms and Metrics to determine the best performing model.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Project 4: SQL_HR Employee attrition Analysis</title>
+      <link>https://yantrik-patel.github.io/post/chapter-5/</link>
+      <pubDate>Tue, 15 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-5/</guid>
+      <description>With this project, we are analyzing the employee data and trying to find trend in attrition using SQL. The dataset is downloaded from Kaggle. I have done initial data cleaning and compiled other tables data into one main_data table in Excel. There are 15000 records or ROWS and 12 COLUMNS or variables or attributes. The size of dataset is the main reason I decided to clean it in Excel..
+Link</description>
+    </item>
+    
+    <item>
+      <title>Project 3: SQL_UK Accident 2016 Analysis</title>
+      <link>https://yantrik-patel.github.io/post/chapter-3/</link>
+      <pubDate>Tue, 01 Nov 2022 11:13:32 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-3/</guid>
+      <description>In this project, I have tried to analyze the accidents reported in the year 2016 in UK. The dataset is publicly available on Kaggle from the year 1979 till 2020. I have cleaned the data using Excel and used MySQL workbench to query the data and get the insights. The dataset have many information like dates, districts, highway authority, road condtion, light and weather conditions, area type etc. The size of data is 136000 records and more than 12 attributes or columns.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Python_Analysis of IPL matches and Players</title>
+      <link>https://yantrik-patel.github.io/post/chapter-2/</link>
+      <pubDate>Thu, 20 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-2/</guid>
+      <description>IPL is the most famous cricket league with players coming from worldwide. What makes this series more competitive every year is the drama with every match. I have used the complete dataset showing all match information from 2008 to 2022. We will be analysing top performing teams and also individual players.
+Link</description>
+    </item>
+    
+    <item>
+      <title>Project 1: R_EDA of the Cyclist Bike Share Company</title>
+      <link>https://yantrik-patel.github.io/post/chapter-1/</link>
+      <pubDate>Fri, 14 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-1/</guid>
+      <description>This is the Google Capstone project I did for my Google professional Data Analytics certification. Although I am familiar with Python, I challenged myself to use R programming language for this project. All the data cleaninng, processing and visualization is done on R.I have taken data for the year 2019 as it is having quite good number of records we can say it is a Big Dataset. I have performed basic EDA(Exploratory Data Analysis) on this data set and tried to draw out insights from it.</description>
+    </item>
+    
+    <item>
+      <title>My Tableau Portfolio</title>
+      <link>https://yantrik-patel.github.io/post/chapter-4/</link>
+      <pubDate>Tue, 20 Sep 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/post/chapter-4/</guid>
+      <description>I have always enjoyed seeing charts and dashboards coming to life from the available tabular data.It&amp;rsquo;s been a long time since when I have started working on Tableau to create charts and dashboards using the variuos datasets. I have been doing the same in Excel from last 11 years but Tableau have it&amp;rsquo;s own strength and capabilities. I regularly post my work on my Tableau Public Profile.
+Link</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://yantrik-patel.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/about/</guid>
+      <description>Hello there, I am Yantrik from India. I am a Data Analyst. I hold Bachelor&amp;rsquo;s degree in Engineering and I have completed Google Professional Data Analysis course. Also getting my hands dirty with a Machine Learning Course from Stanford University. Data and Statistic have been a part of my life from long time. It has helped me during my past experience when I worked as SCM and Procurement Analyst in Manufacturing and Automotive Industry.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://yantrik-patel.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yantrik-patel.github.io/contact/</guid>
+      <description>You can find me on&amp;hellip;
+LinkedIn: https://www.linkedin.com/in/yantreikp
+Kaggle: https://www.kaggle.com/yantrikpatel/code
+GitHub: https://github.com/yantrik-patel
+Write to me at:
+patelyantrik@gmail.com</description>
+    </item>
+    
+  </channel>
+</rss>
